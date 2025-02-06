@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Maxwell
 - 👀 I’m interested in ... football and video games 
-- 🌱 I’m currently learning mobile app development and cloud development 
+- 🌱 I'm a flutter developer 
 - 😄 Pronouns: ...He/His
   
 
